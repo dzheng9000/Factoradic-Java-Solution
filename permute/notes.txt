@@ -1,6 +1,6 @@
 The provided package "permute" contains the Java files with their compiled counterparts on class files.
 
-The main method is in "Tester.java". Provided below are some sample inputs :
+The main method is in "Tester.java". Provided below are some sample inputs   :
 
 $ java permute/Tester "ABAB"
 ABAB = 2
