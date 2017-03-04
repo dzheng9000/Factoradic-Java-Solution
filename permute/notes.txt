@@ -1,0 +1,18 @@
+The provided package "permute" contains the Java files with their compiled counterparts on class files.
+
+The main method is in "Tester.java". Provided below are some sample inputs :
+
+$ java permute/Tester "ABAB"
+ABAB = 2
+
+$ java permute/Tester "AAAB"
+AAAB = 1
+
+$ java permute/Tester "BAAA"
+BAAA = 4
+
+$ java permute/Tester "QUESTION"
+QUESTION = 24572
+
+$ java permute/Tester "BOOKKEEPER"
+BOOKKEEPER = 10743
